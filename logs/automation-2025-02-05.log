@@ -1,0 +1,47 @@
+01:34:52.831 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+01:34:53.864 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+01:34:53.864 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+01:34:58.096 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+01:34:58.925 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+01:34:58.926 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+01:34:59.840 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+01:34:59.842 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+01:37:33.195 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+01:37:35.864 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+01:37:35.866 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+01:37:36.315 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+01:37:37.106 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+01:37:37.157 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+01:37:37.157 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+01:37:37.183 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+01:37:37.184 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+01:37:37.763 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+01:37:37.764 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+01:37:38.368 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+01:37:38.368 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+01:37:38.795 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+01:37:38.795 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+02:06:32.698 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+02:06:33.464 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+02:06:33.465 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+02:06:34.565 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+02:06:34.565 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+12:32:07.744 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+12:32:08.293 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+12:32:08.329 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+12:32:09.542 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+12:32:09.542 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+12:57:34.152 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+12:57:34.766 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+12:57:34.770 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+12:57:36.686 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+12:57:36.687 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+13:55:40.304 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+13:58:32.935 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+13:58:33.947 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+16:52:02.361 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+16:52:02.891 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+16:52:04.194 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+16:52:04.519 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+16:52:07.453 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+16:52:08.659 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****

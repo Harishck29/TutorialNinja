@@ -1,0 +1,1 @@
+cd X:\Harrypratice\TUTORIALNINJA>mvn test
