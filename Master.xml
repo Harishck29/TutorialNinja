@@ -3,7 +3,7 @@
 
 
 
-<suite name="Suite">
+<suite name=" Master Suite">
 <listeners>
 <listener class-name="Utilities.ExtentReportManager"/>
 </listeners>
@@ -11,9 +11,10 @@
   <parameter name="os" value="Windows"/>
   <parameter name ="browser" value = "chrome"/>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest"/>
-       <class name="testCases.TC002LoginPage"/>
+    <!--   <class name="testCases.TC001_AccountRegistrationTest"/> --> 
+    <!--   <class name="testCases.TC002LoginPage"/> -->
            <!-- <class name="testCases.TC003_LoginDDT"/>-->
+                <class name="testCases.TC_004PurchaseTablet"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

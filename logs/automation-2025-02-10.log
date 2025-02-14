@@ -1,0 +1,50 @@
+11:08:55.216 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+11:08:55.221 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+11:08:59.256 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+11:09:00.277 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+15:26:27.863 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+15:26:28.749 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+15:26:28.770 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+15:26:29.899 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+15:26:29.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+15:26:32.810 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+15:26:34.162 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+19:31:32.175 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+19:31:32.811 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+19:31:32.856 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+19:31:34.545 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+19:31:34.545 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+19:31:36.955 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+19:31:38.443 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+19:47:03.660 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+19:47:04.385 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+19:47:04.426 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+19:47:06.141 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+19:47:06.142 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+19:47:08.679 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+19:47:10.202 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+23:20:00.456 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+23:20:00.977 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+23:20:01.019 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+23:20:02.092 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+23:20:02.092 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+23:20:04.298 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+23:20:05.561 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+14:32:47.952 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+14:32:48.797 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+14:32:48.799 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+14:32:49.895 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+14:32:49.895 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+14:33:00.762 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****
+14:33:01.826 [main] INFO  testCases.TC002LoginPage - ***  Finished TC__02 LoginPage****
+15:10:19.297 [main] INFO  testCases.TC003_LoginDDT - ** TC003 Starting DDT Testing     ***
+15:10:30.661 [main] INFO  testCases.TC003_LoginDDT - ** TC003 Starting DDT Testing     ***
+15:10:40.862 [main] INFO  testCases.TC003_LoginDDT - ** TC003 Starting DDT Testing     ***
+15:10:51.068 [main] INFO  testCases.TC003_LoginDDT - ** TC003 Starting DDT Testing     ***
+15:11:01.287 [main] INFO  testCases.TC003_LoginDDT - ** TC003 Starting DDT Testing     ***
+15:15:13.160 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Tc-01 Account Registration ***
+15:15:13.589 [main] INFO  testCases.TC001_AccountRegistrationTest - **** clicked registered ***
+15:15:13.625 [main] INFO  testCases.TC001_AccountRegistrationTest - **** providing customer details ***
+15:15:14.700 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Successful Registration ***
+15:15:14.700 [main] INFO  testCases.TC001_AccountRegistrationTest - ***      TC-01 AccountRegisterationTest finished ***
+15:15:16.896 [main] INFO  testCases.TC002LoginPage - ***  Starting TC__02 LoginPage****

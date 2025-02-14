@@ -7,19 +7,14 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="Master"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC002LoginPage">
+      <class name="testCases.TC_004PurchaseTablet">
         <methods>
           <include name="teardown"/>
+          <include name="verifypurchasetablet"/>
           <include name="setup"/>
-          <include name="verifylogintest"/>
         </methods>
-      </class> <!-- testCases.TC002LoginPage -->
+      </class> <!-- testCases.TC_004PurchaseTablet -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [ Master Suite] -->

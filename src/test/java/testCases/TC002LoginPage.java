@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.LoginPage;
 import pageObjects.MyAccountpage;
+import pageObjects.Purchasetablet;
 import pageObjects.homepage;
 import testbase.BaseClass;
 
@@ -36,6 +37,17 @@ public class TC002LoginPage extends BaseClass {
 	    	   Assert.fail();
 	       }
 	       logger.info("***  Finished TC__02 LoginPage****");
+	       
+	       
+	       logger.info("TC_OOO4  Starting ");
+			
+			Purchasetablet pb=new Purchasetablet(driver);
+			
+			pb.clicktablets();
+			pb.clickproductsamsunggalaxy();
+			pb.clickaddtocart();
+			
+			logger.info("TC_OOO4  Finished ");
 	}
 	
 }
